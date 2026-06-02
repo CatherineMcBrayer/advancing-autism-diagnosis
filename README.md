@@ -9,3 +9,5 @@ I started this project as a junior in highschool (2023) and would like to contin
 I'm sure there have been many advancements in our understanding of Machine Learning and the models themselves since I last worked on this project. However, I'll be including what I currently have in here on my github profile.
 
 Once I make updates to the project, I will also add them here. I won't be removing the old stuff so that I can keep track of progress.
+
+NOTE: I will be creating another web page for public use soon! The project is no longer running under the domain mentioned in the paper. 
